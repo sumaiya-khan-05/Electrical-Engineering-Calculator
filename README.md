@@ -10,6 +10,7 @@ conversion, logic gates, truth tables, and dynamic circuit modelling.
 -------------------------------------
 1-Data Structures Used
 -------------------------------------
+
 1.1 Stack 
 
 1.2 Singly Linked List 
@@ -101,7 +102,8 @@ Truth tables are generated dynamically using logical operators.
 
 3.5 Dynamic Circuit Builder 
 Process: 
-1. User selects number of inputs 
+
+1. User selects number of inputs
 2. Required number of gates is auto-calculated 
 3. User selects gate types 
 4. Graph is constructed 
